@@ -1,0 +1,15 @@
+.filterBox {
+  background-color: #ffffff;
+  overflow-x: scroll;
+  padding: 15px;
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  margin-left: 15px;
+  background-color: #ffffff;
+  justify-content: center;
+  padding: 15px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+}

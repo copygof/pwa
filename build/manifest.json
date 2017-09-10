@@ -1,0 +1,13 @@
+{
+  "name": "Go Ayutthaya",
+  "short_name": "go-ayutthaya",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#876c4b",
+  "theme_color": "#4a331e",
+  "icons": [{
+    "src": "/assets/icons/icon.png",
+    "type": "image/png"
+  }]
+}
